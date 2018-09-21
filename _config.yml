@@ -16,7 +16,7 @@
 title: Alexa VanHattum
 email: avh@cs.cornell.edu
 description: First-year PhD student in Computer Science at Cornell University.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/~avh" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: avanhatt
 github_username:  avanhatt

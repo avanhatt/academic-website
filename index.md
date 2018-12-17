@@ -11,15 +11,17 @@ I am a first-year PhD student in the [Department of Computer Science](http://www
 
 ## News
 
+- I will be attending the [CRA-W Grad Cohort Workshop for Women](https://cra.org/cra-w/events/grad-cohort-2019/). [April 2019]
+- Honored to have my work as a Head TA mentioned in the acknowledgments of Professor [Andy van Dam](http://cs.brown.edu/people/avandam/)’s [Reflections on an introductory CS course, CS15, at Brown University](https://dl.acm.org/citation.cfm?id=3284639) in ACM Inroads. [November 2018]
 - I attended [PLMW@ICFP](https://icfp18.sigplan.org/track/PLMW-ICFP-2018) in St. Louis. [September 2018]
 - Apple announced the [new heart rate features](https://www.apple.com/apple-watch-series-4/health/) I contributed to. [September 2018]
-- I began as a teaching assistant for [CS 4110: Programming Langauges & Logics](http://www.cs.cornell.edu/courses/cs4110/2018fa/). [August 2018]
+- I began as a teaching assistant for [CS 4110: Programming Languages & Logics](http://www.cs.cornell.edu/courses/cs4110/2018fa/). [August 2018]
 - I began my PhD at Cornell University! [August 2018]
 
 ## Teaching
 
 Cornell University
-- Fall 2018: Grad TA for [CS 4110: Programming Langauges & Logics](http://www.cs.cornell.edu/courses/cs4110/2018fa/)
+- Fall 2018: Grad TA for [CS 4110: Programming Languages & Logics](http://www.cs.cornell.edu/courses/cs4110/2018fa/)
 
 Brown University
 - Spring 2016: Head TA for [CS 195y: Logic for Systems](http://cs.brown.edu/courses/cs195y/2016/)

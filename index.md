@@ -7,12 +7,14 @@ layout: home
 
 ## About
 
-I am a first-year PhD student in the [Department of Computer Science](http://www.cs.cornell.edu) at Cornell University. I work with [Adrian Sampson](https://www.cs.cornell.edu/~asampson/) in the [Computer Architecture and Programming Abstractions](https://capra.cs.cornell.edu) research group. I completed my bachelor’s in computer science at [Brown University](http://cs.brown.edu) in 2016, where I worked on some projects using [modeling tools](https://github.com/avanhatt/minimum-spanning-trees-alloy) and [refinement types](https://cs.brown.edu/research/pubs/theses/capstones/2016/van.hattum.alexa.pdf). I then spent 2 years engineering health software at Apple. My research interests include programming languages, formal methods, distributed systems, and computer science education. [CV](vanhattum_cv_fall_2018.pdf)
+I am a first-year PhD student in the [Department of Computer Science](http://www.cs.cornell.edu) at Cornell University. I work with [Adrian Sampson](https://www.cs.cornell.edu/~asampson/) in the [Computer Architecture and Programming Abstractions](https://capra.cs.cornell.edu) research group. I completed my bachelor’s in computer science at [Brown University](http://cs.brown.edu) in 2016, where I worked on some projects using [modeling tools](https://github.com/avanhatt/minimum-spanning-trees-alloy) and [refinement types](https://cs.brown.edu/research/pubs/theses/capstones/2016/van.hattum.alexa.pdf). I then spent 2 years engineering health software at Apple. My research interests include [programming languages](http://pl.cs.cornell.edu), formal methods, distributed systems, and computer science education. 
+
+[CV](vanhattum_cv_fall_2018.pdf)
 
 ## News
 
-- I am serving as a co-organizer for Cornell's [Admitted PhD Student Visit Day](https://www.cs.cornell.edu/projects/phdvisit/). [March 2019]
-- I will be attending the [CRA-W Grad Cohort Workshop for Women](https://cra.org/cra-w/events/grad-cohort-2019/). [April 2019]
+- I attended the [CRA-W Grad Cohort Workshop for Women](https://cra.org/cra-w/events/grad-cohort-2019/). [April 2019]
+- I served as a co-organizer for Cornell's [Admitted PhD Student Visit Day](https://www.cs.cornell.edu/projects/phdvisit/). [March 2019]
 - Honored to have my work as a Head TA mentioned in the acknowledgments of Professor [Andy van Dam](http://cs.brown.edu/people/avandam/)’s [Reflections on an introductory CS course, CS15, at Brown University](https://dl.acm.org/citation.cfm?id=3284639) in ACM Inroads. [November 2018]
 - I attended [PLMW@ICFP](https://icfp18.sigplan.org/track/PLMW-ICFP-2018) in St. Louis. [September 2018]
 - Apple announced the [new heart rate features](https://www.apple.com/apple-watch-series-4/health/) I contributed to. [September 2018]

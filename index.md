@@ -7,17 +7,51 @@ layout: home
 
 ## About
 
-I am a second-year PhD student in the [Department of Computer Science](http://www.cs.cornell.edu) at Cornell University. I work with [Adrian Sampson](https://www.cs.cornell.edu/~asampson/) in the [Computer Architecture and Programming Abstractions](https://capra.cs.cornell.edu) research group. My research interests span systems [programming languages](http://pl.cs.cornell.edu),  applied formal methods, and usability for programming tools. I completed my bachelor’s at [Brown](http://cs.brown.edu), where I worked on some projects using [modeling tools](https://github.com/avanhatt/minimum-spanning-trees-alloy) and [refinement types](https://cs.brown.edu/research/pubs/theses/capstones/2016/van.hattum.alexa.pdf). I then spent 2 years engineering [health software](https://www.apple.com/apple-watch-series-4/health/) at Apple.
+I am a second-year PhD student in the [Department of Computer Science][cornellcs] at Cornell University. I work with [Adrian Sampson][adrian] in the [Computer Architecture and Programming Abstractions][capra] research group. My research interests span systems [programming languages][pl], applied formal methods, and usability for programming tools. I completed my bachelor’s at [Brown][browncs], where I worked on some projects using [modeling tools][mstalloy] and [refinement types][rtypes]. I then spent 2 years engineering [health software][apple] at Apple.
 
-[CV](vanhattum_cv.pdf)
+[My CV.](vanhattum_cv.pdf)
+
+[cornellcs]: http://www.cs.cornell.edu
+[adrian]: https://www.cs.cornell.edu/~asampson/
+[capra]: https://capra.cs.cornell.edu
+[pl]: http://pl.cs.cornell.edu
+[browncs]: http://cs.brown.edu
+[mstalloy]: https://github.com/avanhatt/minimum-spanning-trees-alloy
+[rtypes]: https://cs.brown.edu/research/pubs/theses/capstones/2016/van.hattum.alexa.pdf
+[apple]: https://www.apple.com/apple-watch-series-4/health/
 
 ## News
-- I was fortunate to be awarded the [NSF's GRFP fellowship](https://www.nsfgrfp.org) [March 2020].
-- I was a student volunteer at [PLDI](https://pldi19.sigplan.org) at [FCRC](https://fcrc.acm.org) in Phoenix [June 2019].
-- I attended [SNAPL](https://snapl.org/2019/) in Providence, RI. [May 2019]
-- I participated in the [CRA-W Grad Cohort Workshop for Women](https://cra.org/cra-w/events/grad-cohort-2019/). [April 2019]
-- Honored to have my work as a Head TA mentioned in the acknowledgments of Professor [Andy van Dam](http://cs.brown.edu/people/avandam/)’s [Reflections on an introductory CS course, CS15, at Brown University](https://dl.acm.org/citation.cfm?id=3284639) in ACM Inroads. [November 2018]
-- I attended [PLMW@ICFP](https://icfp18.sigplan.org/track/PLMW-ICFP-2018) in St. Louis. [September 2018]
+- Our work-in-progress short paper on [Diospyros][dios] was accepted to [LCTES 2020][lctes].
+- [Rachit Nigam][rachit] and I are finalists for [Qualcomm's Innovation Fellowship][qinf].
+- I was fortunate to be awarded the [NSF's GRFP fellowship][grfp] [March 2020].
+- I was a student volunteer at [PLDI][] at [FCRC][] in Phoenix [June 2019].
+- I attended [SNAPL][] in Providence, RI. [May 2019]
+- I participated in the [CRA-W Grad Cohort Workshop for Women][craw]. [April 2019]
+- Honored to have my work as a Head TA mentioned in the acknowledgments of Professor [Andy van Dam][avd]’s [Reflections on an introductory CS course, CS15, at Brown University][cs15] in ACM Inroads. [November 2018]
+- I attended [PLMW@ICFP][plmw] in St. Louis. [September 2018]
+
+[dios]: https://github.com/cucapra/diospyros
+[lctes]: https://conf.researchr.org/home/LCTES-2020
+[rachit]: https://rachitnigam.com
+[qinf]: https://www.qualcomm.com/invention/research/university-relations/innovation-fellowship/2020-north-america
+[grfp]: https://www.nsfgrfp.org
+[pldi]: https://pldi19.sigplan.org
+[fcrc]: https://fcrc.acm.org
+[snapl]: https://snapl.org/2019/
+[craw]: https://cra.org/cra-w/events/grad-cohort-2019/
+[avd]: http://cs.brown.edu/people/avandam/
+[cs15]: https://dl.acm.org/citation.cfm?id=3284639
+[plmw]: https://icfp18.sigplan.org/track/PLMW-ICFP-2018
+
+
+## Publications
+
+### Short Papers
+- (To appear) ["A Synthesis-aided Compiler for DSP Architectures (WiP Paper)."][dios-preprint] Alexa VanHattum\*, Rachit Nigam\*, Vincent T. Lee, James Bornholt, Adrian Sampson (\* Equal contribution). In [LCTES 2020][lctes].
+
+[dios-preprint]: diospyros-lctes-2020.pdf
+[lctes]: https://conf.researchr.org/home/LCTES-2020
+
 
 ## Talks
 - Verified Lifting of Stencil Computations (Kamil et al.) [(slides)](verified-lifting-short.pdf) for Cornell's [Programming Languages Discussion Group](http://www.cs.cornell.edu/courses/cs7190/2019sp/) [Spring 2019]

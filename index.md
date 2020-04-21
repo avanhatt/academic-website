@@ -7,22 +7,27 @@ layout: home
 
 ## About
 
-I am a second-year PhD student in the [Department of Computer Science][cornellcs] at Cornell University. I work with [Adrian Sampson][adrian] in the [Computer Architecture and Programming Abstractions][capra] research group. My research interests span systems [programming languages][pl], applied formal methods, and usability for programming tools. I completed my bachelor’s at [Brown][browncs], where I worked on some projects using [modeling tools][mstalloy] and [refinement types][rtypes]. I then spent 2 years engineering [health software][apple] at Apple.
+I am a second-year PhD student in the [Department of Computer Science][cornellcs] at Cornell University and an [NSF GRFP fellow][grfp]. I work with [Adrian Sampson][adrian] in the [Computer Architecture and Programming Abstractions][capra] research group. My research interests span systems [programming languages][pl], applied formal methods, and usability for programming tools. My current projects, [Hyacinth][] and [Diospyros][], apply solver-aided program synthesis to compiling programs for energy-efficient hardware.
+
+I completed my bachelor’s at [Brown][browncs], where I worked on some projects using [modeling tools][mstalloy] and [refinement types][rtypes]. I then spent two years at Apple engineering [health software][apple] for the iPhone and Apple Watch.
 
 [My CV.](vanhattum_cv.pdf)
 
 [cornellcs]: http://www.cs.cornell.edu
+[grfp]: https://www.nsfgrfp.org
 [adrian]: https://www.cs.cornell.edu/~asampson/
 [capra]: https://capra.cs.cornell.edu
 [pl]: http://pl.cs.cornell.edu
+[hyacinth]: https://github.com/cucapra/hyacinth
+[diospyros]: https://github.com/cucapra/diospyros
 [browncs]: http://cs.brown.edu
 [mstalloy]: https://github.com/avanhatt/minimum-spanning-trees-alloy
 [rtypes]: https://cs.brown.edu/research/pubs/theses/capstones/2016/van.hattum.alexa.pdf
 [apple]: https://www.apple.com/apple-watch-series-4/health/
 
 ## News
-- Our work-in-progress short paper on [Diospyros][dios] was accepted to [LCTES 2020][lctes].
-- [Rachit Nigam][rachit] and I are finalists for [Qualcomm's Innovation Fellowship][qinf].
+- Our work-in-progress short paper on [Diospyros][dios] was accepted to [LCTES 2020][lctes] [April 2020].
+- [Rachit Nigam][rachit] and I are finalists for [Qualcomm's Innovation Fellowship][qinf] [April 2020].
 - I was fortunate to be awarded the [NSF's GRFP fellowship][grfp] [March 2020].
 - I was a student volunteer at [PLDI][] at [FCRC][] in Phoenix [June 2019].
 - I attended [SNAPL][] in Providence, RI. [May 2019]
@@ -47,7 +52,7 @@ I am a second-year PhD student in the [Department of Computer Science][cornellcs
 ## Publications
 
 ### Short Papers
-- (To appear) ["A Synthesis-aided Compiler for DSP Architectures (WiP Paper)."][dios-preprint] Alexa VanHattum\*, Rachit Nigam\*, Vincent T. Lee, James Bornholt, Adrian Sampson (\* Equal contribution). In [LCTES 2020][lctes].
+- (To appear) ["A Synthesis-aided Compiler for DSP Architectures (WiP Paper)."][dios-preprint] Alexa VanHattum\*, Rachit Nigam\*, Vincent T. Lee, James Bornholt, Adrian Sampson (\*equal contribution). In [LCTES 2020][lctes].
 
 [dios-preprint]: diospyros-lctes-2020.pdf
 [lctes]: https://conf.researchr.org/home/LCTES-2020
@@ -62,7 +67,7 @@ I am a second-year PhD student in the [Department of Computer Science][cornellcs
 - I help organize the CS department's [colloquium
 talks](https://www.cs.cornell.edu/content/fall-2019-colloquium).
 - I am the secretary for [Graduate Students for Gender Inclusion in
-Computing](https://gsgic.org), a new student group
+Computing](https://gsgic.org) at Cornell.
 - I co-organized Cornell's [2019 Admitted PhD Student Visit Day](https://www.cs.cornell.edu/projects/phdvisit/).
 - I volunteered at Cornell's 2019 [Girls' Adventures In Math](https://www.girlsadventuresinmath.com/ithaca).
 

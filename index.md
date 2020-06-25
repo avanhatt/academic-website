@@ -26,7 +26,7 @@ I completed my bachelor’s at [Brown][browncs], where I worked on some projects
 [apple]: https://www.apple.com/apple-watch-series-4/health/
 
 ## News
-- Our work-in-progress short paper on [Diospyros][dios] was accepted to [LCTES 2020][lctes] [April 2020].
+- I presented our work-in-progress short paper on [Diospyros][dios] at [LCTES 2020][lctes]. You can find the 10 minute video on [YouTube here][dios-video] [June 2020].
 - [Rachit Nigam][rachit] and I are finalists for [Qualcomm's Innovation Fellowship][qinf] [April 2020].
 - I was fortunate to be awarded the [NSF's GRFP fellowship][grfp] [March 2020].
 - I was a student volunteer at [PLDI][] at [FCRC][] in Phoenix [June 2019].
@@ -37,6 +37,7 @@ I completed my bachelor’s at [Brown][browncs], where I worked on some projects
 
 [dios]: https://github.com/cucapra/diospyros
 [lctes]: https://conf.researchr.org/home/LCTES-2020
+[dios-video]: https://youtu.be/fDnsmRY7LOc
 [rachit]: https://rachitnigam.com
 [qinf]: https://www.qualcomm.com/invention/research/university-relations/innovation-fellowship/2020-north-america
 [grfp]: https://www.nsfgrfp.org
@@ -52,16 +53,22 @@ I completed my bachelor’s at [Brown][browncs], where I worked on some projects
 ## Publications
 
 ### Short Papers
-- (To appear) ["A Synthesis-aided Compiler for DSP Architectures (WiP Paper)."][dios-preprint] Alexa VanHattum\*, Rachit Nigam\*, Vincent T. Lee, James Bornholt, Adrian Sampson (\*equal contribution). In [LCTES 2020][lctes].
+- ["A Synthesis-aided Compiler for DSP Architectures (WiP Paper)."][dios-dl] Alexa VanHattum\*, Rachit Nigam\*, Vincent T. Lee, James Bornholt, Adrian Sampson (\*equal contribution). In [LCTES 2020][lctes]. ([local pdf][dios-preprint], [talk video][dios-video]).
 
+[dios-dl]: https://dl.acm.org/doi/abs/10.1145/3372799.3394358
 [dios-preprint]: diospyros-lctes-2020.pdf
+[dios-video]: https://youtu.be/fDnsmRY7LOc
 [lctes]: https://conf.researchr.org/home/LCTES-2020
 
 
 ## Talks
+- [A Synthesis-aided Compiler for DSP Architectures (WiP Paper)][dios-video] for [LCTES 2020][lctes] [June 2020]
 - Verified Lifting of Stencil Computations (Kamil et al.) [(slides)](verified-lifting-short.pdf) for Cornell's [Programming Languages Discussion Group](http://www.cs.cornell.edu/courses/cs7190/2019sp/) [Spring 2019]
 - An Axiomatic Basis For Computer Programming (Hoare) [(slides)](https://www.cs.cornell.edu/courses/cs7194/2019sp/slides/hoare.pdf) for Cornell's [Great Works in PL](https://www.cs.cornell.edu/courses/cs7194/2019sp) seminar [Spring 2019]
 - [What's New in Health](https://developer.apple.com/videos/play/wwdc2017/221/) [(slides)](https://devstreaming-cdn.apple.com/videos/wwdc/2017/221izy8b17y2dtiy/221/221_whats_new_in_health.pdf?dl=1) at Apple's World Wide Developers Conference [Spring 2017]
+
+[dios-video]: https://youtu.be/fDnsmRY7LOc
+[lctes]: https://conf.researchr.org/home/LCTES-2020
 
 ## Service
 - I help organize the CS department's [colloquium

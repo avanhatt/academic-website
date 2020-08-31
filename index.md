@@ -7,7 +7,7 @@ layout: home
 
 ## About
 
-I am a second-year PhD student in the [Department of Computer Science][cornellcs] at Cornell University and an [NSF GRFP fellow][grfp]. I work with [Adrian Sampson][adrian] in the [Computer Architecture and Programming Abstractions][capra] research group. My research interests span systems [programming languages][pl], applied formal methods, and usability for programming tools. My current projects, [Hyacinth][] and [Diospyros][], apply solver-aided program synthesis to compiling programs for energy-efficient hardware.
+I am a third-year PhD student in the [Department of Computer Science][cornellcs] at Cornell University and an [NSF GRFP fellow][grfp]. I work with [Adrian Sampson][adrian] in the [Computer Architecture and Programming Abstractions][capra] research group. My research interests span systems [programming languages][pl], applied formal methods, and usability for programming tools. My current projects, [Hyacinth][] and [Diospyros][], apply solver-aided program synthesis to compiling programs for energy-efficient hardware.
 
 I completed my bachelor’s at [Brown][browncs], where I worked on some projects using [modeling tools][mstalloy] and [refinement types][rtypes]. I then spent two years at Apple engineering [health software][apple] for the iPhone and Apple Watch.
 
@@ -71,12 +71,18 @@ I completed my bachelor’s at [Brown][browncs], where I worked on some projects
 [lctes]: https://conf.researchr.org/home/LCTES-2020
 
 ## Service
-- I help organize the CS department's [colloquium
-talks](https://www.cs.cornell.edu/content/fall-2019-colloquium).
-- I am the secretary for [Graduate Students for Gender Inclusion in
-Computing](https://gsgic.org) at Cornell.
-- I co-organized Cornell's [2019 Admitted PhD Student Visit Day](https://www.cs.cornell.edu/projects/phdvisit/).
-- I volunteered at Cornell's 2019 [Girls' Adventures In Math](https://www.girlsadventuresinmath.com/ithaca).
+- I co-organize Cornell's Programming Languages Discussion Group [(PLDG)][pldg].
+- I am on the CS department's 2020 Fall Teaching Committee.
+- I help organize the CS department's [colloquium talks][colloq].
+- I am the secretary for [Graduate Students for Gender Inclusion in Computing][gsgic] at Cornell.
+- I co-organized Cornell's [2019 Admitted PhD Student Visit Day][visit].
+- I volunteered at Cornell's 2019 [Girls' Adventures In Math][gam].
+
+[pldg]:https://pl.cs.cornell.edu/pldg/2020fa/
+[colloq]:https://www.cs.cornell.edu/content/fall-2019-colloquium
+[gsgic]:https://gsgic.org
+[visit]:https://www.cs.cornell.edu/projects/phdvisit/
+[gam]:https://www.girlsadventuresinmath.com/ithaca
 
 ## Teaching
 

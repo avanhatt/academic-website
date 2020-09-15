@@ -71,6 +71,7 @@ I completed my bachelor’s at [Brown][browncs], where I worked on some projects
 [lctes]: https://conf.researchr.org/home/LCTES-2020
 
 ## Service
+- I am on the [OOPSLA 2020 Artifact Evaluation Committee][oopsla20aec].
 - I co-organize Cornell's Programming Languages Discussion Group [(PLDG)][pldg].
 - I am on the CS department's 2020 Fall Teaching Committee.
 - I help organize the CS department's [colloquium talks][colloq].
@@ -78,6 +79,7 @@ I completed my bachelor’s at [Brown][browncs], where I worked on some projects
 - I co-organized Cornell's [2019 Admitted PhD Student Visit Day][visit].
 - I volunteered at Cornell's 2019 [Girls' Adventures In Math][gam].
 
+[oopsla20aec]: https://2020.splashcon.org/committee/splash-2020-Artifacts-artifact-evaluation-committee
 [pldg]:https://pl.cs.cornell.edu/pldg/2020fa/
 [colloq]:https://www.cs.cornell.edu/content/fall-2019-colloquium
 [gsgic]:https://gsgic.org
@@ -87,6 +89,7 @@ I completed my bachelor’s at [Brown][browncs], where I worked on some projects
 ## Teaching
 
 Cornell University
+- Grad TA (part-time) for [CS 4110: Programming Languages & Logics](http://www.cs.cornell.edu/courses/cs4110/2020fa/) [Fall 2020]
 - Grad TA for [CS 4110: Programming Languages & Logics](http://www.cs.cornell.edu/courses/cs4110/2018fa/) [Fall 2018]
 
 Brown University

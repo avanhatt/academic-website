@@ -55,13 +55,14 @@ I completed my bachelor’s at [Brown][browncs], where I worked on some projects
 ## Publications
 
 ### Conference Papers
-- *(Conditionally accepted)* "Vectorization for Digital Signal Processors via Equality Saturation" Alexa VanHattum, Rachit Nigam, Vincent T. Lee, James Bornholt, Adrian Sampson. In [ASPLOS 2021][asplos].
+- *(Conditionally accepted)* "Vectorization for Digital Signal Processors via Equality Saturation" Alexa VanHattum, Rachit Nigam, Vincent T. Lee, James Bornholt, Adrian Sampson. In [ASPLOS 2021][asplos]. ([local pdf][dios-asplos-preprint])
 
 ### Short Papers
-- ["A Synthesis-aided Compiler for DSP Architectures (WiP Paper)."][dios-dl] Alexa VanHattum\*, Rachit Nigam\*, Vincent T. Lee, James Bornholt, Adrian Sampson (\*equal contribution). In [LCTES 2020][lctes]. ([local pdf][dios-preprint], [talk video][dios-video]).
+- ["A Synthesis-aided Compiler for DSP Architectures (WiP Paper)."][dios-dl] Alexa VanHattum\*, Rachit Nigam\*, Vincent T. Lee, James Bornholt, Adrian Sampson (\*equal contribution). In [LCTES 2020][lctes]. ([local pdf][lctes-preprint], [talk video][dios-video]).
 
 [dios-dl]: https://dl.acm.org/doi/abs/10.1145/3372799.3394358
-[dios-preprint]: diospyros-lctes-2020.pdf
+[dios-asplos-preprint]: diospyros-asplos-2021-preprint.pdf
+[lctes-preprint]: diospyros-lctes-2020.pdf
 [dios-video]: https://youtu.be/fDnsmRY7LOc
 [lctes]: https://conf.researchr.org/home/LCTES-2020
 

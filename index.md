@@ -26,6 +26,7 @@ I completed my bachelor’s at [Brown][browncs], where I worked on some projects
 [apple]: https://www.apple.com/apple-watch-series-4/health/
 
 ## News
+- I gave a guest lecture on [Diospyros][dios] at Brown's [Logic for Systems][lfs] seminar. [April 2021]
 - I had a blast presenting our work on [Diospyros][dios] at [UCSC's Languages, Systems, and Data seminar][ucsclsd]. [December 2020]
 - Our full-length paper on [Diospyros][dios] was conditionally accepted at [ASPLOS 2021][asplos]! [November 2020].
 - I presented our work-in-progress short paper on [Diospyros][dios] at [LCTES 2020][lctes]. You can find the 10 minute video on [YouTube here][dios-video] [June 2020].
@@ -36,6 +37,7 @@ I completed my bachelor’s at [Brown][browncs], where I worked on some projects
 - I participated in the [CRA-W Grad Cohort Workshop for Women][craw]. [April 2019]
 - Honored to have my work as a Head TA mentioned in the acknowledgments of Professor [Andy van Dam][avd]’s [Reflections on an introductory CS course, CS15, at Brown University][cs15] in ACM Inroads. [November 2018]
 
+[lfs]: http://cs.brown.edu/courses/csci1710/
 [dios]: https://github.com/cucapra/diospyros
 [ucsclsd]: https://lsd.ucsc.edu/lsd-seminar/2020fa/
 [asplos]: https://asplos-conference.org/
@@ -55,7 +57,7 @@ I completed my bachelor’s at [Brown][browncs], where I worked on some projects
 ## Publications
 
 ### Conference Papers
-- *(Conditionally accepted)* "Vectorization for Digital Signal Processors via Equality Saturation" Alexa VanHattum, Rachit Nigam, Vincent T. Lee, James Bornholt, Adrian Sampson. In [ASPLOS 2021][asplos]. ([local pdf][dios-asplos-preprint])
+- "Vectorization for Digital Signal Processors via Equality Saturation" Alexa VanHattum, Rachit Nigam, Vincent T. Lee, James Bornholt, Adrian Sampson. In [ASPLOS 2021][asplos]. ([local pdf][dios-asplos-preprint])
 
 ### Short Papers
 - ["A Synthesis-aided Compiler for DSP Architectures (WiP Paper)."][dios-dl] Alexa VanHattum\*, Rachit Nigam\*, Vincent T. Lee, James Bornholt, Adrian Sampson (\*equal contribution). In [LCTES 2020][lctes]. ([local pdf][lctes-preprint], [talk video][dios-video]).

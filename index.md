@@ -26,10 +26,11 @@ I completed my bachelor’s at [Brown][browncs], where I worked on some projects
 [apple]: https://www.apple.com/apple-watch-series-4/health/
 
 ## News
+- This summer, I will be interning with the Amazon AWS Automated Reasoning Group. [June 2021]
 - I gave a guest lecture on [Diospyros][dios] at Brown's [Logic for Systems][lfs] seminar. [April 2021]
 - I had a blast presenting our work on [Diospyros][dios] at [UCSC's Languages, Systems, and Data seminar][ucsclsd]. [December 2020]
 - Our full-length paper on [Diospyros][dios] was conditionally accepted at [ASPLOS 2021][asplos]! [November 2020].
-- I presented our work-in-progress short paper on [Diospyros][dios] at [LCTES 2020][lctes]. You can find the 10 minute video on [YouTube here][dios-video] [June 2020].
+- I presented our work-in-progress short paper on [Diospyros][dios] at [LCTES 2020][lctes] [June 2020].
 - [Rachit Nigam][rachit] and I are finalists for [Qualcomm's Innovation Fellowship][qinf] [April 2020].
 - I was fortunate to be awarded the [NSF's GRFP fellowship][grfp] [March 2020].
 - I was a student volunteer at [PLDI][] at [FCRC][] in Phoenix [June 2019].
@@ -57,13 +58,17 @@ I completed my bachelor’s at [Brown][browncs], where I worked on some projects
 ## Publications
 
 ### Conference Papers
-- "Vectorization for Digital Signal Processors via Equality Saturation" Alexa VanHattum, Rachit Nigam, Vincent T. Lee, James Bornholt, Adrian Sampson. In [ASPLOS 2021][asplos]. ([local pdf][dios-asplos-preprint])
+- ["Vectorization for Digital Signal Processors via Equality Saturation"][dios-asplos-dl] Alexa VanHattum, Rachit Nigam, Vincent T. Lee, James Bornholt, Adrian Sampson. In [ASPLOS 2021][asplos]. ([local pdf][dios-asplos-preprint], [5 minute talk video][dios-5m], [17 minute talk video][dios-17m])
 
 ### Short Papers
-- ["A Synthesis-aided Compiler for DSP Architectures (WiP Paper)."][dios-dl] Alexa VanHattum\*, Rachit Nigam\*, Vincent T. Lee, James Bornholt, Adrian Sampson (\*equal contribution). In [LCTES 2020][lctes]. ([local pdf][lctes-preprint], [talk video][dios-video]).
+- ["A Synthesis-aided Compiler for DSP Architectures (WiP Paper)."][dios-lctes-dl] Alexa VanHattum\*, Rachit Nigam\*, Vincent T. Lee, James Bornholt, Adrian Sampson (\*equal contribution). In [LCTES 2020][lctes]. ([local pdf][lctes-preprint], [talk video][dios-video]).
 
-[dios-dl]: https://dl.acm.org/doi/abs/10.1145/3372799.3394358
+[dios-asplos-dl]: https://dl.acm.org/doi/10.1145/3445814.3446707
 [dios-asplos-preprint]: diospyros-asplos-2021-preprint.pdf
+[dios-5m]:https://www.youtube.com/watch?v=pGHjvPLrmRc
+[dios-17m]:https://www.youtube.com/watch?v=RvMI4prTqHY&feature=youtu.be
+
+[dios-lctes-dl]: https://dl.acm.org/doi/abs/10.1145/3372799.3394358
 [lctes-preprint]: diospyros-lctes-2020.pdf
 [dios-video]: https://youtu.be/fDnsmRY7LOc
 [lctes]: https://conf.researchr.org/home/LCTES-2020

@@ -7,9 +7,14 @@ layout: home
 
 ## About
 
-I am a third-year PhD student in the [Department of Computer Science][cornellcs] at Cornell University and an [NSF GRFP fellow][grfp]. I work with [Adrian Sampson][adrian] in the [Computer Architecture and Programming Abstractions][capra] research group. My research interests span systems [programming languages][pl], applied formal methods, and usability for programming tools. My current projects, [Hyacinth][] and [Diospyros][], apply solver-aided program synthesis to compiling programs for energy-efficient hardware.
+I am a fourth-year PhD student in the [Department of Computer Science][cornellcs] at Cornell University and an [NSF GRFP fellow][grfp]. 
+I work with [Adrian Sampson][adrian] in the [Computer Architecture and Programming Abstractions][capra] research group. My research interests span systems [programming languages][pl] and applied formal methods. 
+I like systems that use solver-aided reasoning to make is easier for developers to trust their low-level code.
+I work on [Diospyros][], a compiler that uses equality saturation to find vectorization for energy-efficient hardware. 
+Recently, I have been contributing to the [Rust Model Checker][rmc], a bit-precise verifier for sequential Rust code.
 
-I completed my bachelor’s at [Brown][browncs], where I worked on some projects using [modeling tools][mstalloy] and [refinement types][rtypes]. I then spent two years at Apple engineering [health software][apple] for the iPhone and Apple Watch.
+I completed my bachelor’s at [Brown][browncs], where I worked on some projects using [modeling tools][mstalloy] and [refinement types][rtypes]. 
+I spent two years at Apple engineering [health software][apple] for the iPhone and Apple Watch.
 
 [My CV.](vanhattum_cv.pdf)
 
@@ -26,7 +31,7 @@ I completed my bachelor’s at [Brown][browncs], where I worked on some projects
 [apple]: https://www.apple.com/apple-watch-series-4/health/
 
 ## News
-- This summer, I will be interning with the Amazon AWS Automated Reasoning Group. [June 2021]
+- I interned with the Amazon AWS Automated Reasoning Group, working on improving dynamic dispatch support within the [Rust Model Checker][rmc]. I am continue work with them part-time into the fall. [June 2021]
 - I gave a guest lecture on [Diospyros][dios] at Brown's [Logic for Systems][lfs] seminar. [April 2021]
 - I had a blast presenting our work on [Diospyros][dios] at [UCSC's Languages, Systems, and Data seminar][ucsclsd]. [December 2020]
 - Our full-length paper on [Diospyros][dios] was conditionally accepted at [ASPLOS 2021][asplos]! [November 2020].
@@ -38,6 +43,7 @@ I completed my bachelor’s at [Brown][browncs], where I worked on some projects
 - I participated in the [CRA-W Grad Cohort Workshop for Women][craw]. [April 2019]
 - Honored to have my work as a Head TA mentioned in the acknowledgments of Professor [Andy van Dam][avd]’s [Reflections on an introductory CS course, CS15, at Brown University][cs15] in ACM Inroads. [November 2018]
 
+[rmc]: https://github.com/model-checking/rmc
 [lfs]: http://cs.brown.edu/courses/csci1710/
 [dios]: https://github.com/cucapra/diospyros
 [ucsclsd]: https://lsd.ucsc.edu/lsd-seminar/2020fa/
@@ -74,21 +80,20 @@ I completed my bachelor’s at [Brown][browncs], where I worked on some projects
 [lctes]: https://conf.researchr.org/home/LCTES-2020
 
 
-## Talks
+## Recorded Talks
+- [Vectorization for Digital Signal Processors via Equality Saturation][dios-asplos-dl]. [ASPLOS 2021][asplos]. [5 minute talk video][dios-5m], [17 minute talk video][dios-17m].
 - [A Synthesis-aided Compiler for DSP Architectures (WiP Paper)][dios-video] for [LCTES 2020][lctes] [June 2020]
-- Verified Lifting of Stencil Computations (Kamil et al.) [(slides)](verified-lifting-short.pdf) for Cornell's [Programming Languages Discussion Group](http://www.cs.cornell.edu/courses/cs7190/2019sp/) [Spring 2019]
-- An Axiomatic Basis For Computer Programming (Hoare) [(slides)](https://www.cs.cornell.edu/courses/cs7194/2019sp/slides/hoare.pdf) for Cornell's [Great Works in PL](https://www.cs.cornell.edu/courses/cs7194/2019sp) seminar [Spring 2019]
 - [What's New in Health](https://developer.apple.com/videos/play/wwdc2017/221/) [(slides)](https://devstreaming-cdn.apple.com/videos/wwdc/2017/221izy8b17y2dtiy/221/221_whats_new_in_health.pdf?dl=1) at Apple's World Wide Developers Conference [Spring 2017]
 
 [dios-video]: https://youtu.be/fDnsmRY7LOc
 [lctes]: https://conf.researchr.org/home/LCTES-2020
 
 ## Service
-- I am on the [OOPSLA 2020 Artifact Evaluation Committee][oopsla20aec].
 - I co-organize Cornell's Programming Languages Discussion Group [(PLDG)][pldg].
-- I am on the CS department's 2020 Fall Teaching Committee.
-- I help organize the CS department's [colloquium talks][colloq].
-- I am the secretary for [Graduate Students for Gender Inclusion in Computing][gsgic] at Cornell.
+- I am on the executive board for [Graduate Students for Gender Inclusion in Computing][gsgic] at Cornell.
+- I was on the [OOPSLA 2020 Artifact Evaluation Committee][oopsla20aec].
+- I was on the CS department's 2020 Fall Teaching Committee.
+- I helped organize the CS department's [colloquium talks][colloq].
 - I co-organized Cornell's [2019 Admitted PhD Student Visit Day][visit].
 - I volunteered at Cornell's 2019 [Girls' Adventures In Math][gam].
 

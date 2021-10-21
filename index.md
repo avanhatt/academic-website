@@ -31,7 +31,7 @@ I spent two years at Apple engineering [health software][apple] for the iPhone a
 [apple]: https://www.apple.com/apple-watch-series-4/health/
 
 ## News
-- I interned with the Amazon AWS Automated Reasoning Group, working on improving dynamic dispatch support within the [Rust Model Checker][rmc]. I am continue work with them part-time into the fall. [June 2021]
+- I interned with the AWS Automated Reasoning Group, working on improving dynamic dispatch support within the [Rust Model Checker][rmc]. I am continuing this work part-time into the fall. [June 2021]
 - I gave a guest lecture on [Diospyros][dios] at Brown's [Logic for Systems][lfs] seminar. [April 2021]
 - I had a blast presenting our work on [Diospyros][dios] at [UCSC's Languages, Systems, and Data seminar][ucsclsd]. [December 2020]
 - Our full-length paper on [Diospyros][dios] was conditionally accepted at [ASPLOS 2021][asplos]! [November 2020].

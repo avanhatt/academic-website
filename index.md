@@ -7,7 +7,7 @@ layout: home
 
 ## About
 
-I am a fourth-year PhD student in the [Department of Computer Science][cornellcs] at Cornell University and an [NSF GRFP fellow][grfp]. 
+I am a fourth-year PhD candidate in the [Department of Computer Science][cornellcs] at Cornell University and an [NSF GRFP fellow][grfp]. 
 I work with [Adrian Sampson][adrian] in the [Computer Architecture and Programming Abstractions][capra] research group. My research interests span systems [programming languages][pl] and applied formal methods. 
 I like systems that use solver-aided reasoning to make is easier for developers to trust their low-level code.
 I work on [Diospyros][], a compiler that uses equality saturation to find vectorization for energy-efficient hardware. 
@@ -31,6 +31,7 @@ I spent two years at Apple engineering [health software][apple] for the iPhone a
 [apple]: https://www.apple.com/apple-watch-series-4/health/
 
 ## News
+- I passed my A exam (admission to candidacy/thesis proposal)! [December 2021] 
 - I interned with the AWS Automated Reasoning Group, working on improving dynamic dispatch support within the [Rust Model Checker][rmc]. I am continuing this work part-time into the fall. [June 2021]
 - I gave a guest lecture on [Diospyros][dios] at Brown's [Logic for Systems][lfs] seminar. [April 2021]
 - I had a blast presenting our work on [Diospyros][dios] at [UCSC's Languages, Systems, and Data seminar][ucsclsd]. [December 2020]

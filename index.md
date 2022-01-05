@@ -31,19 +31,21 @@ I spent two years at Apple engineering [health software][apple] for the iPhone a
 [apple]: https://www.apple.com/apple-watch-series-4/health/
 
 ## News
+- I gave a guest lecture on [Diospyros][dios] to Wellesley's [Principals of Programming][wellesley] course. [December 2021]
 - I passed my A exam (admission to candidacy/thesis proposal)! [December 2021] 
-- I interned with the AWS Automated Reasoning Group, working on improving dynamic dispatch support within the [Rust Model Checker][rmc]. I am continuing this work part-time into the fall. [June 2021]
+- I interned with the AWS Automated Reasoning Group, working on improving dynamic dispatch support within the [Rust Model Checker][rmc]. [June 2021]
 - I gave a guest lecture on [Diospyros][dios] at Brown's [Logic for Systems][lfs] seminar. [April 2021]
 - I had a blast presenting our work on [Diospyros][dios] at [UCSC's Languages, Systems, and Data seminar][ucsclsd]. [December 2020]
-- Our full-length paper on [Diospyros][dios] was conditionally accepted at [ASPLOS 2021][asplos]! [November 2020].
-- I presented our work-in-progress short paper on [Diospyros][dios] at [LCTES 2020][lctes] [June 2020].
-- [Rachit Nigam][rachit] and I are finalists for [Qualcomm's Innovation Fellowship][qinf] [April 2020].
-- I was fortunate to be awarded the [NSF's GRFP fellowship][grfp] [March 2020].
-- I was a student volunteer at [PLDI][] at [FCRC][] in Phoenix [June 2019].
+- Our full-length paper on [Diospyros][dios] was conditionally accepted at [ASPLOS 2021][asplos]! [November 2020]
+- I presented our work-in-progress short paper on [Diospyros][dios] at [LCTES 2020][lctes]. [June 2020]
+- [Rachit Nigam][rachit] and I are finalists for [Qualcomm's Innovation Fellowship][qinf]. [April 2020]
+- I was fortunate to be awarded the [NSF's GRFP fellowship][grfp]. [March 2020]
+- I was a student volunteer at [PLDI][] at [FCRC][] in Phoenix. [June 2019]
 - I attended [SNAPL][] in Providence, RI. [May 2019]
 - I participated in the [CRA-W Grad Cohort Workshop for Women][craw]. [April 2019]
 - Honored to have my work as a Head TA mentioned in the acknowledgments of Professor [Andy van Dam][avd]’s [Reflections on an introductory CS course, CS15, at Brown University][cs15] in ACM Inroads. [November 2018]
 
+[wellesley]: https://cs.wellesley.edu/~cs251/f21/
 [rmc]: https://github.com/model-checking/rmc
 [lfs]: http://cs.brown.edu/courses/csci1710/
 [dios]: https://github.com/cucapra/diospyros
@@ -60,7 +62,6 @@ I spent two years at Apple engineering [health software][apple] for the iPhone a
 [craw]: https://cra.org/cra-w/events/grad-cohort-2019/
 [avd]: http://cs.brown.edu/people/avandam/
 [cs15]: https://dl.acm.org/citation.cfm?id=3284639
-
 
 ## Publications
 

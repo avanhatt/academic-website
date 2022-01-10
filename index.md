@@ -31,6 +31,7 @@ I spent two years at Apple engineering [health software][apple] for the iPhone a
 [apple]: https://www.apple.com/apple-watch-series-4/health/
 
 ## News
+- Our paper on verifying dynamic trait objects in Rust was accepted to [ICSE SEIP][icseseip]! [January 2022]
 - I gave a guest lecture on [Diospyros][dios] to Wellesley's [Principals of Programming][wellesley] course. [December 2021]
 - I passed my A exam (admission to candidacy/thesis proposal)! [December 2021] 
 - I interned with the AWS Automated Reasoning Group, working on improving dynamic dispatch support within the [Rust Model Checker][rmc]. [June 2021]
@@ -45,6 +46,7 @@ I spent two years at Apple engineering [health software][apple] for the iPhone a
 - I participated in the [CRA-W Grad Cohort Workshop for Women][craw]. [April 2019]
 - Honored to have my work as a Head TA mentioned in the acknowledgments of Professor [Andy van Dam][avd]’s [Reflections on an introductory CS course, CS15, at Brown University][cs15] in ACM Inroads. [November 2018]
 
+[icseseip]: https://conf.researchr.org/track/icse-2022/icse-2022-seip---software-engineering-in-practice
 [wellesley]: https://cs.wellesley.edu/~cs251/f21/
 [rmc]: https://github.com/model-checking/rmc
 [lfs]: http://cs.brown.edu/courses/csci1710/
@@ -66,6 +68,8 @@ I spent two years at Apple engineering [health software][apple] for the iPhone a
 ## Publications
 
 ### Conference Papers
+- "Verifying Dynamic Trait Objects in Rust" Alexa VanHattum, Daniel Schwartz-Narbonne, Nathan Chong, and Adrian Sampson. To appear in [ICSE Software Engineering in Practice 2022][icseseip]. Preprint coming soon.
+
 - ["Vectorization for Digital Signal Processors via Equality Saturation"][dios-asplos-dl] Alexa VanHattum, Rachit Nigam, Vincent T. Lee, James Bornholt, Adrian Sampson. In [ASPLOS 2021][asplos]. ([local pdf][dios-asplos-preprint], [5 minute talk video][dios-5m], [17 minute talk video][dios-17m])
 
 ### Short Papers

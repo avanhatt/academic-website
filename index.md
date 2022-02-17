@@ -68,12 +68,14 @@ I spent two years at Apple engineering [health software][apple] for the iPhone a
 ## Publications
 
 ### Conference Papers
-- "Verifying Dynamic Trait Objects in Rust" Alexa VanHattum, Daniel Schwartz-Narbonne, Nathan Chong, and Adrian Sampson. To appear in [ICSE Software Engineering in Practice 2022][icseseip]. Preprint coming soon.
+- "Verifying Dynamic Trait Objects in Rust" Alexa VanHattum, Daniel Schwartz-Narbonne, Nathan Chong, and Adrian Sampson. To appear in [ICSE Software Engineering in Practice 2022][icseseip]. ([preprint][dyn-trait-icse-preprint]).
 
 - ["Vectorization for Digital Signal Processors via Equality Saturation"][dios-asplos-dl] Alexa VanHattum, Rachit Nigam, Vincent T. Lee, James Bornholt, Adrian Sampson. In [ASPLOS 2021][asplos]. ([local pdf][dios-asplos-preprint], [5 minute talk video][dios-5m], [17 minute talk video][dios-17m])
 
 ### Short Papers
 - ["A Synthesis-aided Compiler for DSP Architectures (WiP Paper)."][dios-lctes-dl] Alexa VanHattum\*, Rachit Nigam\*, Vincent T. Lee, James Bornholt, Adrian Sampson (\*equal contribution). In [LCTES 2020][lctes]. ([local pdf][lctes-preprint], [talk video][dios-video]).
+
+[dyn-trait-icse-preprint]: dyn-trait-icse-seip-2022-preprint.pdf
 
 [dios-asplos-dl]: https://dl.acm.org/doi/10.1145/3445814.3446707
 [dios-asplos-preprint]: diospyros-asplos-2021-preprint.pdf
@@ -95,8 +97,8 @@ I spent two years at Apple engineering [health software][apple] for the iPhone a
 [lctes]: https://conf.researchr.org/home/LCTES-2020
 
 ## Service
-- I co-organize Cornell's Programming Languages Discussion Group [(PLDG)][pldg].
 - I am on the executive board for [Graduate Students for Gender Inclusion in Computing][gsgic] at Cornell.
+- I co-organized Cornell's Programming Languages Discussion Group [(PLDG)][pldg] from Aug 2020-Dec 2021.
 - I was on the [OOPSLA 2020 Artifact Evaluation Committee][oopsla20aec].
 - I was on the CS department's 2020 Fall Teaching Committee.
 - I helped organize the CS department's [colloquium talks][colloq].

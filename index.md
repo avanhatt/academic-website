@@ -11,7 +11,7 @@ I am a fourth-year PhD candidate in the [Department of Computer Science][cornell
 I work with [Adrian Sampson][adrian] in the [Computer Architecture and Programming Abstractions][capra] research group. My research interests span systems [programming languages][pl] and applied formal methods. 
 I like systems that use solver-aided reasoning to make is easier for developers to trust their low-level code.
 I work on [Diospyros][], a compiler that uses equality saturation to find vectorization for energy-efficient hardware. 
-Recently, I have been contributing to the [Rust Model Checker][rmc], a bit-precise verifier for sequential Rust code.
+Recently, I have been contributing to the [Kani Rust Verifier][kani], a bit-precise verifier for sequential Rust code.
 
 I completed my bachelor’s at [Brown][browncs], where I worked on some projects using [modeling tools][mstalloy] and [refinement types][rtypes]. 
 I spent two years at Apple engineering [health software][apple] for the iPhone and Apple Watch.
@@ -31,13 +31,14 @@ I spent two years at Apple engineering [health software][apple] for the iPhone a
 [apple]: https://www.apple.com/apple-watch-series-4/health/
 
 ## News
+- I will serve on the program committee of the [EGRAPHS workshop][egraphs]. [March 2022]
 - Our paper on verifying dynamic trait objects in Rust was accepted to [ICSE SEIP][icseseip]! [January 2022]
 - I gave a guest lecture on [Diospyros][dios] to Wellesley's [Principals of Programming][wellesley] course. [December 2021]
 - I passed my A exam (admission to candidacy/thesis proposal)! [December 2021] 
-- I interned with the AWS Automated Reasoning Group, working on improving dynamic dispatch support within the [Rust Model Checker][rmc]. [June 2021]
+- I interned with the AWS Automated Reasoning Group, working on improving dynamic dispatch support within the [Kani Rust Verifier][kani]. [June 2021]
 - I gave a guest lecture on [Diospyros][dios] at Brown's [Logic for Systems][lfs] seminar. [April 2021]
 - I had a blast presenting our work on [Diospyros][dios] at [UCSC's Languages, Systems, and Data seminar][ucsclsd]. [December 2020]
-- Our full-length paper on [Diospyros][dios] was conditionally accepted at [ASPLOS 2021][asplos]! [November 2020]
+- Our full-length paper on [Diospyros][dios] was accepted to [ASPLOS 2021][asplos]! [November 2020]
 - I presented our work-in-progress short paper on [Diospyros][dios] at [LCTES 2020][lctes]. [June 2020]
 - [Rachit Nigam][rachit] and I are finalists for [Qualcomm's Innovation Fellowship][qinf]. [April 2020]
 - I was fortunate to be awarded the [NSF's GRFP fellowship][grfp]. [March 2020]
@@ -46,9 +47,10 @@ I spent two years at Apple engineering [health software][apple] for the iPhone a
 - I participated in the [CRA-W Grad Cohort Workshop for Women][craw]. [April 2019]
 - Honored to have my work as a Head TA mentioned in the acknowledgments of Professor [Andy van Dam][avd]’s [Reflections on an introductory CS course, CS15, at Brown University][cs15] in ACM Inroads. [November 2018]
 
+[egraphs]: https://pldi22.sigplan.org/home/egraphs-2022
 [icseseip]: https://conf.researchr.org/track/icse-2022/icse-2022-seip---software-engineering-in-practice
 [wellesley]: https://cs.wellesley.edu/~cs251/f21/
-[rmc]: https://github.com/model-checking/rmc
+[kani]: https://github.com/model-checking/kani
 [lfs]: http://cs.brown.edu/courses/csci1710/
 [dios]: https://github.com/cucapra/diospyros
 [ucsclsd]: https://lsd.ucsc.edu/lsd-seminar/2020fa/
@@ -97,6 +99,7 @@ I spent two years at Apple engineering [health software][apple] for the iPhone a
 [lctes]: https://conf.researchr.org/home/LCTES-2020
 
 ## Service
+- I am on the program committee for the [2022 EGRAPHS workshop][egraphs] at PLDI.
 - I am on the executive board for [Graduate Students for Gender Inclusion in Computing][gsgic] at Cornell.
 - I co-organized Cornell's Programming Languages Discussion Group [(PLDG)][pldg] from Aug 2020-Dec 2021.
 - I was on the [OOPSLA 2020 Artifact Evaluation Committee][oopsla20aec].

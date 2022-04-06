@@ -31,6 +31,7 @@ I spent two years at Apple engineering [health software][apple] for the iPhone a
 [apple]: https://www.apple.com/apple-watch-series-4/health/
 
 ## News
+- I'll teach [CS2110: Object-Oriented Programming and Data Structures][2110] this summer. [April 2022]
 - I will serve on the program committee of the [EGRAPHS workshop][egraphs]. [March 2022]
 - Our paper on verifying dynamic trait objects in Rust was accepted to [ICSE SEIP][icseseip]! [January 2022]
 - I gave a guest lecture on [Diospyros][dios] to Wellesley's [Principals of Programming][wellesley] course. [December 2021]
@@ -42,11 +43,13 @@ I spent two years at Apple engineering [health software][apple] for the iPhone a
 - I presented our work-in-progress short paper on [Diospyros][dios] at [LCTES 2020][lctes]. [June 2020]
 - [Rachit Nigam][rachit] and I are finalists for [Qualcomm's Innovation Fellowship][qinf]. [April 2020]
 - I was fortunate to be awarded the [NSF's GRFP fellowship][grfp]. [March 2020]
-- I was a student volunteer at [PLDI][] at [FCRC][] in Phoenix. [June 2019]
-- I attended [SNAPL][] in Providence, RI. [May 2019]
-- I participated in the [CRA-W Grad Cohort Workshop for Women][craw]. [April 2019]
 - Honored to have my work as a Head TA mentioned in the acknowledgments of Professor [Andy van Dam][avd]’s [Reflections on an introductory CS course, CS15, at Brown University][cs15] in ACM Inroads. [November 2018]
 
+<!-- - I was a student volunteer at [PLDI][] at [FCRC][] in Phoenix. [June 2019] -->
+<!-- - I attended [SNAPL][] in Providence, RI. [May 2019] -->
+<!-- - I participated in the [CRA-W Grad Cohort Workshop for Women][craw]. [April 2019]  -->
+
+[2110]: https://classes.cornell.edu/browse/roster/SU22/class/CS/2110
 [egraphs]: https://pldi22.sigplan.org/home/egraphs-2022
 [icseseip]: https://conf.researchr.org/track/icse-2022/icse-2022-seip---software-engineering-in-practice
 [wellesley]: https://cs.wellesley.edu/~cs251/f21/
@@ -98,6 +101,20 @@ I spent two years at Apple engineering [health software][apple] for the iPhone a
 [dios-video]: https://youtu.be/fDnsmRY7LOc
 [lctes]: https://conf.researchr.org/home/LCTES-2020
 
+## Teaching
+
+Cornell University
+- Instructor for [CS2110: Object-Oriented Programming and Data Structures][2110] [Summer 2022]
+- Grad TA (part-time) for [CS 4110: Programming Languages & Logics](http://www.cs.cornell.edu/courses/cs4110/2020fa/) [Fall 2020]
+- Grad TA for [CS 4110: Programming Languages & Logics](http://www.cs.cornell.edu/courses/cs4110/2018fa/) [Fall 2018]
+
+Brown University
+- Head TA for [CS 195y: Logic for Systems](http://cs.brown.edu/courses/cs195y/2016/) [Spring 2016]
+- Head TA for [CS 15: Intro. Object-Oriented Programming & Computer Science](https://cs.brown.edu/courses/cs015/) [Fall 2015]
+- TA for [CS 22: Discrete Math & Probability](https://cs.brown.edu/courses/csci0220/) [Spring 2015]
+- TA for [CS 15: Intro. Object-Oriented Programming & Computer Science](https://cs.brown.edu/courses/cs015/) [Fall 2014]
+- TA for [CS 8: First Byte of Computer Science](http://cs.brown.edu/courses/cs008/2017/) [Spring 2014]
+
 ## Service
 - I am on the program committee for the [2022 EGRAPHS workshop][egraphs] at PLDI.
 - I am on the executive board for [Graduate Students for Gender Inclusion in Computing][gsgic] at Cornell.
@@ -114,16 +131,3 @@ I spent two years at Apple engineering [health software][apple] for the iPhone a
 [gsgic]:https://gsgic.org
 [visit]:https://www.cs.cornell.edu/projects/phdvisit/
 [gam]:https://www.girlsadventuresinmath.com/ithaca
-
-## Teaching
-
-Cornell University
-- Grad TA (part-time) for [CS 4110: Programming Languages & Logics](http://www.cs.cornell.edu/courses/cs4110/2020fa/) [Fall 2020]
-- Grad TA for [CS 4110: Programming Languages & Logics](http://www.cs.cornell.edu/courses/cs4110/2018fa/) [Fall 2018]
-
-Brown University
-- Head TA for [CS 195y: Logic for Systems](http://cs.brown.edu/courses/cs195y/2016/) [Spring 2016]
-- Head TA for [CS 15: Intro. Object-Oriented Programming & Computer Science](https://cs.brown.edu/courses/cs015/) [Fall 2015]
-- TA for [CS 22: Discrete Math & Probability](https://cs.brown.edu/courses/csci0220/) [Spring 2015]
-- TA for [CS 15: Intro. Object-Oriented Programming & Computer Science](https://cs.brown.edu/courses/cs015/) [Fall 2014]
-- TA for [CS 8: First Byte of Computer Science](http://cs.brown.edu/courses/cs008/2017/) [Spring 2014]

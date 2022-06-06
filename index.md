@@ -7,11 +7,12 @@ layout: home
 
 ## About
 
-I am a fourth-year PhD candidate in the [Department of Computer Science][cornellcs] at Cornell University and an [NSF GRFP fellow][grfp]. 
-I work with [Adrian Sampson][adrian] in the [Computer Architecture and Programming Abstractions][capra] research group. My research interests span systems [programming languages][pl] and applied formal methods. 
+I am a fifth-year PhD candidate in the [Department of Computer Science][cornellcs] at Cornell University and an [NSF GRFP fellow][grfp]. 
+I work with [Adrian Sampson][adrian] in the [Computer Architecture and Programming Abstractions][capra] research group. My research interests span [programming languages][pl] and systems, with a special affinity for applied formal methods. 
 I like systems that use solver-aided reasoning to make is easier for developers to trust their low-level code.
-I work on [Diospyros][], a compiler that uses equality saturation to find vectorization for energy-efficient hardware. 
-Recently, I have been contributing to the [Kani Rust Verifier][kani], a bit-precise verifier for sequential Rust code.
+I work on [Diospyros][], a compiler that uses equality saturation to find vectorization for energy-efficient hardware, and the [Kani Rust Verifier][kani], a bit-precise verifier for sequential Rust code. 
+
+Recently, I have been contributing to verification efforts for [ISLE][], a term-rewriting language for instruction lowering within [Cranelift][] (a native code generator for [Wasmtime][] and an alternative backend for Rust).
 
 I completed my bachelor’s at [Brown][browncs], where I worked on some projects using [modeling tools][mstalloy] and [refinement types][rtypes]. 
 I spent two years at Apple engineering [health software][apple] for the iPhone and Apple Watch.
@@ -23,8 +24,11 @@ I spent two years at Apple engineering [health software][apple] for the iPhone a
 [adrian]: https://www.cs.cornell.edu/~asampson/
 [capra]: https://capra.cs.cornell.edu
 [pl]: http://pl.cs.cornell.edu
-[hyacinth]: https://github.com/cucapra/hyacinth
 [diospyros]: https://github.com/cucapra/diospyros
+[kani]: https://github.com/model-checking/kani
+[isle]: https://github.com/bytecodealliance/wasmtime/blob/main/cranelift/isle/docs/language-reference.md
+[cranelift]: https://bytecodealliance.org/articles/cranelift-progress-2021
+[wasmtime]: https://github.com/bytecodealliance/wasmtime
 [browncs]: http://cs.brown.edu
 [mstalloy]: https://github.com/avanhatt/minimum-spanning-trees-alloy
 [rtypes]: https://cs.brown.edu/research/pubs/theses/capstones/2016/van.hattum.alexa.pdf
@@ -53,7 +57,6 @@ I spent two years at Apple engineering [health software][apple] for the iPhone a
 [egraphs]: https://pldi22.sigplan.org/home/egraphs-2022
 [icseseip]: https://conf.researchr.org/track/icse-2022/icse-2022-seip---software-engineering-in-practice
 [wellesley]: https://cs.wellesley.edu/~cs251/f21/
-[kani]: https://github.com/model-checking/kani
 [lfs]: http://cs.brown.edu/courses/csci1710/
 [dios]: https://github.com/cucapra/diospyros
 [ucsclsd]: https://lsd.ucsc.edu/lsd-seminar/2020fa/

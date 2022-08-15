@@ -7,9 +7,11 @@ layout: home
 
 ## About
 
-I am a fifth-year PhD candidate in the [Department of Computer Science][cornellcs] at Cornell University and an [NSF GRFP fellow][grfp]. 
+> I am on the academic job market for positions starting Fall 2023! I’m interested in academic positions with a roughly equal split between teaching (~2:2 load) and research. I do research in Programming Languages + Systems and I'm especially excited to teach intro CS, intro systems, compilers, PL, and formal methods electives.
+
+I am a PhD candidate in the [Department of Computer Science][cornellcs] at Cornell University and an [NSF GRFP fellow][grfp]. 
 I work with [Adrian Sampson][adrian] in the [Computer Architecture and Programming Abstractions][capra] research group. My research interests span [programming languages][pl] and systems, with a special affinity for applied formal methods. 
-I like systems that use solver-aided reasoning to make is easier for developers to trust their low-level code.
+I like systems that use solver-aided reasoning to make it easier for developers to trust their low-level code.
 I work on [Diospyros][], a compiler that uses equality saturation to find vectorization for energy-efficient hardware, and the [Kani Rust Verifier][kani], a bit-precise verifier for sequential Rust code. 
 
 Recently, I have been contributing to verification efforts for [ISLE][], a term-rewriting language for instruction lowering within [Cranelift][] (a native code generator for [Wasmtime][] and an alternative backend for Rust).
@@ -76,14 +78,16 @@ I spent two years at Apple engineering [health software][apple] for the iPhone a
 ## Publications
 
 ### Conference Papers
-- "Verifying Dynamic Trait Objects in Rust" Alexa VanHattum, Daniel Schwartz-Narbonne, Nathan Chong, and Adrian Sampson. To appear in [ICSE Software Engineering in Practice 2022][icseseip]. ([preprint][dyn-trait-icse-preprint]).
+- ["Verifying Dynamic Trait Objects in Rust"][kani-ieee] Alexa VanHattum, Daniel Schwartz-Narbonne, Nathan Chong, and Adrian Sampson. To [ICSE Software Engineering in Practice 2022][icseseip]. ([local pdf][kani-preprint], [20 minute talk video][kani-video]).
 
 - ["Vectorization for Digital Signal Processors via Equality Saturation"][dios-asplos-dl] Alexa VanHattum, Rachit Nigam, Vincent T. Lee, James Bornholt, Adrian Sampson. In [ASPLOS 2021][asplos]. ([local pdf][dios-asplos-preprint], [5 minute talk video][dios-5m], [17 minute talk video][dios-17m])
 
 ### Short Papers
 - ["A Synthesis-aided Compiler for DSP Architectures (WiP Paper)."][dios-lctes-dl] Alexa VanHattum\*, Rachit Nigam\*, Vincent T. Lee, James Bornholt, Adrian Sampson (\*equal contribution). In [LCTES 2020][lctes]. ([local pdf][lctes-preprint], [talk video][dios-video]).
 
-[dyn-trait-icse-preprint]: dyn-trait-icse-seip-2022-preprint.pdf
+[kani-ieee]: https://ieeexplore.ieee.org/document/9794041 
+[kani-preprint]: dyn-trait-icse-seip-2022-preprint.pdf
+[kani-video]: https://www.youtube.com/watch?v=Bsf0i9bRdHo
 
 [dios-asplos-dl]: https://dl.acm.org/doi/10.1145/3445814.3446707
 [dios-asplos-preprint]: diospyros-asplos-2021-preprint.pdf
@@ -107,7 +111,8 @@ I spent two years at Apple engineering [health software][apple] for the iPhone a
 ## Teaching
 
 Cornell University
-- Instructor for [CS2110: Object-Oriented Programming and Data Structures][2110] [Summer 2022]
+- Instructor of Record for [CS2110: Object-Oriented Programming and Data Structures][2110] [Summer 2022]
+    - ~70 students. Added programming labs & additional active learning exercises.
 - Grad TA (part-time) for [CS 4110: Programming Languages & Logics](http://www.cs.cornell.edu/courses/cs4110/2020fa/) [Fall 2020]
 - Grad TA for [CS 4110: Programming Languages & Logics](http://www.cs.cornell.edu/courses/cs4110/2018fa/) [Fall 2018]
 

@@ -7,9 +7,9 @@ layout: home
 
 ## About
 
-> I am on the academic job market for positions starting Fall 2023! I’m interested in academic positions with a roughly equal split between teaching (~2:2 load) and research. I do research in Programming Languages + Systems and I'm especially excited to teach intro CS, intro systems, compilers, PL, and formal methods electives.
+> I will be starting as an Assistant Professor of [Computer Science at Wellesley College][wellesley] in Fall of 2023! 
 
-I am a PhD candidate in the [Department of Computer Science][cornellcs] at Cornell University and an [NSF GRFP fellow][grfp]. 
+I am a final-year PhD candidate in the [Department of Computer Science][cornellcs] at Cornell University and an [NSF GRFP fellow][grfp]. 
 I work with [Adrian Sampson][adrian] in the [Computer Architecture and Programming Abstractions][capra] research group. My research interests span [programming languages][pl] and systems, with a special affinity for applied formal methods. 
 I like systems that use solver-aided reasoning to make it easier for developers to trust their low-level code.
 I work on [Diospyros][], a compiler that uses equality saturation to find vectorization for energy-efficient hardware, and the [Kani Rust Verifier][kani], a bit-precise verifier for sequential Rust code. 
@@ -21,6 +21,7 @@ I spent two years at Apple engineering [health software][apple] for the iPhone a
 
 [My CV.](vanhattum_cv.pdf)
 
+[wellesley]: https://www.wellesley.edu/cs
 [cornellcs]: http://www.cs.cornell.edu
 [grfp]: https://www.nsfgrfp.org
 [adrian]: https://www.cs.cornell.edu/~asampson/
@@ -37,10 +38,11 @@ I spent two years at Apple engineering [health software][apple] for the iPhone a
 [apple]: https://www.apple.com/apple-watch-series-4/health/
 
 ## News
+- I will be starting as an Assistant Professor at [Wellesley College][wellesley] next fall! [January 2023]
 - I'll teach [CS2110: Object-Oriented Programming and Data Structures][2110] this summer. [April 2022]
 - I will serve on the program committee of the [EGRAPHS workshop][egraphs]. [March 2022]
 - Our paper on verifying dynamic trait objects in Rust was accepted to [ICSE SEIP][icseseip]! [January 2022]
-- I gave a guest lecture on [Diospyros][dios] to Wellesley's [Principals of Programming][wellesley] course. [December 2021]
+- I gave a guest lecture on [Diospyros][dios] to Wellesley's [Principals of Programming][wellesleypop] course. [December 2021]
 - I passed my A exam (admission to candidacy/thesis proposal)! [December 2021] 
 - I interned with the AWS Automated Reasoning Group, working on improving dynamic dispatch support within the [Kani Rust Verifier][kani]. [June 2021]
 - I gave a guest lecture on [Diospyros][dios] at Brown's [Logic for Systems][lfs] seminar. [April 2021]
@@ -58,7 +60,7 @@ I spent two years at Apple engineering [health software][apple] for the iPhone a
 [2110]: https://classes.cornell.edu/browse/roster/SU22/class/CS/2110
 [egraphs]: https://pldi22.sigplan.org/home/egraphs-2022
 [icseseip]: https://conf.researchr.org/track/icse-2022/icse-2022-seip---software-engineering-in-practice
-[wellesley]: https://cs.wellesley.edu/~cs251/f21/
+[wellesleypop]: https://cs.wellesley.edu/~cs251/f21/
 [lfs]: http://cs.brown.edu/courses/csci1710/
 [dios]: https://github.com/cucapra/diospyros
 [ucsclsd]: https://lsd.ucsc.edu/lsd-seminar/2020fa/
@@ -78,7 +80,7 @@ I spent two years at Apple engineering [health software][apple] for the iPhone a
 ## Publications
 
 ### Conference Papers
-- ["Verifying Dynamic Trait Objects in Rust"][kani-ieee] Alexa VanHattum, Daniel Schwartz-Narbonne, Nathan Chong, and Adrian Sampson. To [ICSE Software Engineering in Practice 2022][icseseip]. ([local pdf][kani-preprint], [20 minute talk video][kani-video]).
+- ["Verifying Dynamic Trait Objects in Rust"][kani-ieee] Alexa VanHattum, Daniel Schwartz-Narbonne, Nathan Chong, and Adrian Sampson. In [ICSE Software Engineering in Practice 2022][icseseip]. ([local pdf][kani-preprint], [20 minute talk video][kani-video]).
 
 - ["Vectorization for Digital Signal Processors via Equality Saturation"][dios-asplos-dl] Alexa VanHattum, Rachit Nigam, Vincent T. Lee, James Bornholt, Adrian Sampson. In [ASPLOS 2021][asplos]. ([local pdf][dios-asplos-preprint], [5 minute talk video][dios-5m], [17 minute talk video][dios-17m])
 

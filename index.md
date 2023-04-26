@@ -38,6 +38,7 @@ I spent two years at Apple engineering [health software][apple] for the iPhone a
 [apple]: https://www.apple.com/apple-watch-series-4/health/
 
 ## News
+- I will serve on the program committee of the [EGRAPHS workshop][egraphs] and the [Student Research Competition][src23] at PLDI. [April 2023]
 - I will be starting as an Assistant Professor at [Wellesley College][wellesley] next fall! [January 2023]
 - I'll teach [CS2110: Object-Oriented Programming and Data Structures][2110] this summer. [April 2022]
 - I will serve on the program committee of the [EGRAPHS workshop][egraphs]. [March 2022]
@@ -79,6 +80,11 @@ I spent two years at Apple engineering [health software][apple] for the iPhone a
 
 ## Publications
 
+### Under Submission
+
+- "Lightweight, Modular Verification for WebAssembly-to-Native Instruction Selection". 
+Under submission. ([local pdf][isle-preprint]). 
+
 ### Conference Papers
 - ["Verifying Dynamic Trait Objects in Rust"][kani-ieee] Alexa VanHattum, Daniel Schwartz-Narbonne, Nathan Chong, and Adrian Sampson. In [ICSE Software Engineering in Practice 2022][icseseip]. ([local pdf][kani-preprint], [20 minute talk video][kani-video]).
 
@@ -86,6 +92,8 @@ I spent two years at Apple engineering [health software][apple] for the iPhone a
 
 ### Short Papers
 - ["A Synthesis-aided Compiler for DSP Architectures (WiP Paper)."][dios-lctes-dl] Alexa VanHattum\*, Rachit Nigam\*, Vincent T. Lee, James Bornholt, Adrian Sampson (\*equal contribution). In [LCTES 2020][lctes]. ([local pdf][lctes-preprint], [talk video][dios-video]).
+
+[isle-preprint]: veri-isle-preprint.pdf
 
 [kani-ieee]: https://ieeexplore.ieee.org/document/9794041 
 [kani-preprint]: dyn-trait-icse-seip-2022-preprint.pdf
@@ -126,6 +134,8 @@ Brown University
 - TA for [CS 8: First Byte of Computer Science](http://cs.brown.edu/courses/cs008/2017/) [Spring 2014]
 
 ## Service
+- I am on the program committee for the [2023 EGRAPHS workshop][egraphs] at PLDI.
+- I am on the program committee the [2023 Student Research competition][src23] at PLDI. 
 - I am on the program committee for the [2022 EGRAPHS workshop][egraphs] at PLDI.
 - I am on the executive board for [Graduate Students for Gender Inclusion in Computing][gsgic] at Cornell.
 - I co-organized Cornell's Programming Languages Discussion Group [(PLDG)][pldg] from Aug 2020-Dec 2021.
@@ -135,6 +145,7 @@ Brown University
 - I co-organized Cornell's [2019 Admitted PhD Student Visit Day][visit].
 - I volunteered at Cornell's 2019 [Girls' Adventures In Math][gam].
 
+[src23]: https://pldi23.sigplan.org/track/pldi-2023-src
 [oopsla20aec]: https://2020.splashcon.org/committee/splash-2020-Artifacts-artifact-evaluation-committee
 [pldg]:https://pl.cs.cornell.edu/pldg/2020fa/
 [colloq]:https://www.cs.cornell.edu/content/fall-2019-colloquium

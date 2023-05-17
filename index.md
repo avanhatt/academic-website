@@ -7,12 +7,12 @@ layout: home
 
 ## About
 
-> I will be starting as an Assistant Professor of [Computer Science at Wellesley College][wellesley] in Fall of 2023! 
+> I will be starting as an Assistant Professor of [Computer Science at Wellesley College][wellesley] in July 2023! 
 
 I am a final-year PhD candidate in the [Department of Computer Science][cornellcs] at Cornell University and an [NSF GRFP fellow][grfp]. 
 I work with [Adrian Sampson][adrian] in the [Computer Architecture and Programming Abstractions][capra] research group. My research interests span [programming languages][pl] and systems, with a special affinity for applied formal methods. 
 I like systems that use solver-aided reasoning to make it easier for developers to trust their low-level code.
-I work on [Diospyros][], a compiler that uses equality saturation to find vectorization for energy-efficient hardware, and the [Kani Rust Verifier][kani], a bit-precise verifier for sequential Rust code. 
+I worked on [Diospyros][], a compiler that uses equality saturation to find vectorization for energy-efficient hardware, and the [Kani Rust Verifier][kani], a bit-precise verifier for sequential Rust code. 
 
 Recently, I have been contributing to verification efforts for [ISLE][], a term-rewriting language for instruction lowering within [Cranelift][] (a native code generator for [Wasmtime][] and an alternative backend for Rust).
 
@@ -38,6 +38,7 @@ I spent two years at Apple engineering [health software][apple] for the iPhone a
 [apple]: https://www.apple.com/apple-watch-series-4/health/
 
 ## News
+- I will successfully [defended][defense] my PhD thesis, _Lightweight Formal Methods for Correct, Efficient Systems Programming_. Written dissertation link to come! [May 2023]
 - I will serve on the program committee of the [EGRAPHS workshop][egraphs] and the [Student Research Competition][src23] at PLDI. [April 2023]
 - I will be starting as an Assistant Professor at [Wellesley College][wellesley] next fall! [January 2023]
 - I'll teach [CS2110: Object-Oriented Programming and Data Structures][2110] this summer. [April 2022]
@@ -46,7 +47,6 @@ I spent two years at Apple engineering [health software][apple] for the iPhone a
 - I gave a guest lecture on [Diospyros][dios] to Wellesley's [Principals of Programming][wellesleypop] course. [December 2021]
 - I passed my A exam (admission to candidacy/thesis proposal)! [December 2021] 
 - I interned with the AWS Automated Reasoning Group, working on improving dynamic dispatch support within the [Kani Rust Verifier][kani]. [June 2021]
-- I gave a guest lecture on [Diospyros][dios] at Brown's [Logic for Systems][lfs] seminar. [April 2021]
 - I had a blast presenting our work on [Diospyros][dios] at [UCSC's Languages, Systems, and Data seminar][ucsclsd]. [December 2020]
 - Our full-length paper on [Diospyros][dios] was accepted to [ASPLOS 2021][asplos]! [November 2020]
 - I presented our work-in-progress short paper on [Diospyros][dios] at [LCTES 2020][lctes]. [June 2020]
@@ -58,6 +58,7 @@ I spent two years at Apple engineering [health software][apple] for the iPhone a
 <!-- - I attended [SNAPL][] in Providence, RI. [May 2019] -->
 <!-- - I participated in the [CRA-W Grad Cohort Workshop for Women][craw]. [April 2019]  -->
 
+[defense]: https://twitter.com/avanhatt/status/1658528009555410969
 [2110]: https://classes.cornell.edu/browse/roster/SU22/class/CS/2110
 [egraphs]: https://pldi22.sigplan.org/home/egraphs-2022
 [icseseip]: https://conf.researchr.org/track/icse-2022/icse-2022-seip---software-engineering-in-practice
@@ -135,9 +136,9 @@ Brown University
 
 ## Service
 - I am on the program committee for the [2023 EGRAPHS workshop][egraphs] at PLDI.
-- I am on the program committee the [2023 Student Research competition][src23] at PLDI. 
-- I am on the program committee for the [2022 EGRAPHS workshop][egraphs] at PLDI.
+- I am on the program committee the [2023 Student Research Competition][src23] at PLDI. 
 - I am on the executive board for [Graduate Students for Gender Inclusion in Computing][gsgic] at Cornell.
+- I was on the program committee for the [2022 EGRAPHS workshop][egraphs] at PLDI.
 - I co-organized Cornell's Programming Languages Discussion Group [(PLDG)][pldg] from Aug 2020-Dec 2021.
 - I was on the [OOPSLA 2020 Artifact Evaluation Committee][oopsla20aec].
 - I was on the CS department's 2020 Fall Teaching Committee.

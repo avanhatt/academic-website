@@ -14,8 +14,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Alexa VanHattum
-email: avh@cs.cornell.edu
-description: PhD candidate in Computer Science at Cornell University.
+email: av111@wellesley.edu
+description: Assistant Professor of Computer Science at Wellesley College.
 baseurl: "/~avh" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: avanhatt

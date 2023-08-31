@@ -2,22 +2,22 @@
 layout: home
 ---
 
-![alt text](headshot.png "Alexa VanHattum headshot")
+![alt text](headshot.jpeg "Alexa VanHattum headshot")
 
 
 ## About
 
-> I will be starting as an Assistant Professor of [Computer Science at Wellesley College][wellesley] in July 2023! 
+I am an Assistant Professor of [Computer Science at Wellesley College][wellesley].
 
-I am a final-year PhD candidate in the [Department of Computer Science][cornellcs] at Cornell University and an [NSF GRFP fellow][grfp]. 
-I work with [Adrian Sampson][adrian] in the [Computer Architecture and Programming Abstractions][capra] research group. My research interests span [programming languages][pl] and systems, with a special affinity for applied formal methods. 
-I like systems that use solver-aided reasoning to make it easier for developers to trust their low-level code.
-I worked on [Diospyros][], a compiler that uses equality saturation to find vectorization for energy-efficient hardware, and the [Kani Rust Verifier][kani], a bit-precise verifier for sequential Rust code. 
-
+My research interests span programming languages and systems, with a focus on applying lightweight formal methods to the compiler stack. 
+I like systems that make it easier for developers to trust their low-level code. 
 Recently, I have been contributing to verification efforts for [ISLE][], a term-rewriting language for instruction lowering within [Cranelift][] (a native code generator for [Wasmtime][] and an alternative backend for Rust).
+Previously, I worked on [Diospyros][], a compiler that uses equality saturation to find vectorization for energy-efficient hardware, and the [Kani Rust Verifier][kani], a bit-precise verifier for sequential Rust code. 
 
-I completed my bachelor’s at [Brown][browncs], where I worked on some projects using [modeling tools][mstalloy] and [refinement types][rtypes]. 
-I spent two years at Apple engineering [health software][apple] for the iPhone and Apple Watch.
+If you are a Wellesley student interested in research opportunities, please email me or drop by Science Center W116. 
+
+I received my PhD from the [Department of Computer Science][cornellcs] at Cornell University, where I worked in [Adrian Sampson's][adrian] [Computer Architecture and Programming Abstractions][capra] research group. I completed my bachelor’s at [Brown][browncs], where I contributed to projects using [modeling tools][mstalloy] and [refinement types][rtypes]. 
+I spent some time at Apple engineering [health software][apple] for the iPhone and Apple Watch.
 
 [My CV.](vanhattum_cv.pdf)
 
@@ -26,7 +26,6 @@ I spent two years at Apple engineering [health software][apple] for the iPhone a
 [grfp]: https://www.nsfgrfp.org
 [adrian]: https://www.cs.cornell.edu/~asampson/
 [capra]: https://capra.cs.cornell.edu
-[pl]: http://pl.cs.cornell.edu
 [diospyros]: https://github.com/cucapra/diospyros
 [kani]: https://github.com/model-checking/kani
 [isle]: https://github.com/bytecodealliance/wasmtime/blob/main/cranelift/isle/docs/language-reference.md
@@ -38,11 +37,13 @@ I spent two years at Apple engineering [health software][apple] for the iPhone a
 [apple]: https://www.apple.com/apple-watch-series-4/health/
 
 ## News
-- I will successfully [defended][defense] my PhD thesis, _Lightweight Formal Methods for Correct, Efficient Systems Programming_. Written dissertation link to come! [May 2023]
-- I will serve on the program committee of the [EGRAPHS workshop][egraphs] and the [Student Research Competition][src23] at PLDI. [April 2023]
-- I will be starting as an Assistant Professor at [Wellesley College][wellesley] next fall! [January 2023]
-- I'll teach [CS2110: Object-Oriented Programming and Data Structures][2110] this summer. [April 2022]
-- I will serve on the program committee of the [EGRAPHS workshop][egraphs]. [March 2022]
+- Our paper on [verifying Cranelift's instruction selection][isle-preprint] was conditionally accepted at [ASPLOS 2024][asplos]! [August 2023]
+- I began as an Assistant Professor of Computer Science at [Wellesley][wellesley]. [July 2023]
+- I successfully [defended][defense] my PhD thesis, _Lightweight Formal Methods for Correct, Efficient Systems Programming_. Written dissertation link to come! [May 2023]
+- I served on the program committees of the [EGRAPHS workshop][egraphs] and the [Student Research Competition][src23] at PLDI. [April 2023]
+- I presented our work on verifying Cranelift's Wasm-to-Native instruction selection at the [Foundations of WebAssembly Dagstuhl seminar][dagstuhlwasm].
+- I taught [CS2110: Object-Oriented Programming and Data Structures][2110] this summer. [April 2022]
+- I served on the program committee of the [EGRAPHS workshop][egraphs]. [March 2022]
 - Our paper on verifying dynamic trait objects in Rust was accepted to [ICSE SEIP][icseseip]! [January 2022]
 - I gave a guest lecture on [Diospyros][dios] to Wellesley's [Principals of Programming][wellesleypop] course. [December 2021]
 - I passed my A exam (admission to candidacy/thesis proposal)! [December 2021] 
@@ -54,11 +55,8 @@ I spent two years at Apple engineering [health software][apple] for the iPhone a
 - I was fortunate to be awarded the [NSF's GRFP fellowship][grfp]. [March 2020]
 - Honored to have my work as a Head TA mentioned in the acknowledgments of Professor [Andy van Dam][avd]’s [Reflections on an introductory CS course, CS15, at Brown University][cs15] in ACM Inroads. [November 2018]
 
-<!-- - I was a student volunteer at [PLDI][] at [FCRC][] in Phoenix. [June 2019] -->
-<!-- - I attended [SNAPL][] in Providence, RI. [May 2019] -->
-<!-- - I participated in the [CRA-W Grad Cohort Workshop for Women][craw]. [April 2019]  -->
-
 [defense]: https://twitter.com/avanhatt/status/1658528009555410969
+[dagstuhlwasm]: https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/23101
 [2110]: https://classes.cornell.edu/browse/roster/SU22/class/CS/2110
 [egraphs]: https://pldi22.sigplan.org/home/egraphs-2022
 [icseseip]: https://conf.researchr.org/track/icse-2022/icse-2022-seip---software-engineering-in-practice
@@ -81,10 +79,9 @@ I spent two years at Apple engineering [health software][apple] for the iPhone a
 
 ## Publications
 
-### Under Submission
+### To Appear
 
-- "Lightweight, Modular Verification for WebAssembly-to-Native Instruction Selection". 
-Under submission. ([local pdf][isle-preprint]). 
+- "Lightweight, Modular Verification for WebAssembly-to-Native Instruction Selection". ([Preprint local pdf][isle-preprint]). Conditionally accepted to [ASPLOS 2024][asplos].
 
 ### Conference Papers
 - ["Verifying Dynamic Trait Objects in Rust"][kani-ieee] Alexa VanHattum, Daniel Schwartz-Narbonne, Nathan Chong, and Adrian Sampson. In [ICSE Software Engineering in Practice 2022][icseseip]. ([local pdf][kani-preprint], [20 minute talk video][kani-video]).
@@ -121,9 +118,11 @@ Under submission. ([local pdf][isle-preprint]).
 
 ## Teaching
 
+Wellesley College
+- [CS240: Foundations of Computer Systems][240] [Fall 2023]
+
 Cornell University
-- Instructor of Record for [CS2110: Object-Oriented Programming and Data Structures][2110] [Summer 2022]
-    - ~70 students. Added programming labs & additional active learning exercises.
+- Instructor for [CS2110: Object-Oriented Programming and Data Structures][2110] [Summer 2022]
 - Grad TA (part-time) for [CS 4110: Programming Languages & Logics](http://www.cs.cornell.edu/courses/cs4110/2020fa/) [Fall 2020]
 - Grad TA for [CS 4110: Programming Languages & Logics](http://www.cs.cornell.edu/courses/cs4110/2018fa/) [Fall 2018]
 
@@ -135,21 +134,23 @@ Brown University
 - TA for [CS 8: First Byte of Computer Science](http://cs.brown.edu/courses/cs008/2017/) [Spring 2014]
 
 ## Service
-- I am on the program committee for the [2023 EGRAPHS workshop][egraphs] at PLDI.
-- I am on the program committee the [2023 Student Research Competition][src23] at PLDI. 
-- I am on the executive board for [Graduate Students for Gender Inclusion in Computing][gsgic] at Cornell.
+- I am on the program committee for the [2023 Student Research Competition][src23] at MICRO. 
+- I am on the volunteer committee for [SIGPLAN-M][sigplanm], a long-term mentoring program for the programming languages community.
+- I was on the program committee for the [2023 EGRAPHS workshop][egraphs] at PLDI.
+- I was a judge for the [2023 Student Research Competition][pldisrc23] at PLDI. 
+- I co-founded and was on the board for Cornell [Graduate Students for Gender Inclusion in Computing][gsgic] from 2019-2023.
 - I was on the program committee for the [2022 EGRAPHS workshop][egraphs] at PLDI.
-- I co-organized Cornell's Programming Languages Discussion Group [(PLDG)][pldg] from Aug 2020-Dec 2021.
+- I co-organized Cornell's Programming Languages Discussion Group [(PLDG)][pldg] from 2020-2021.
 - I was on the [OOPSLA 2020 Artifact Evaluation Committee][oopsla20aec].
 - I was on the CS department's 2020 Fall Teaching Committee.
 - I helped organize the CS department's [colloquium talks][colloq].
 - I co-organized Cornell's [2019 Admitted PhD Student Visit Day][visit].
-- I volunteered at Cornell's 2019 [Girls' Adventures In Math][gam].
 
-[src23]: https://pldi23.sigplan.org/track/pldi-2023-src
+[sigplanm]: https://www.sigplan.org/LongTermMentoring/
+[240]: https://cs.wellesley.edu/~cs240
+[pldisrc23]: https://pldi23.sigplan.org/track/pldi-2023-src
 [oopsla20aec]: https://2020.splashcon.org/committee/splash-2020-Artifacts-artifact-evaluation-committee
 [pldg]:https://pl.cs.cornell.edu/pldg/2020fa/
 [colloq]:https://www.cs.cornell.edu/content/fall-2019-colloquium
 [gsgic]:https://gsgic.org
 [visit]:https://www.cs.cornell.edu/projects/phdvisit/
-[gam]:https://www.girlsadventuresinmath.com/ithaca

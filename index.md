@@ -134,7 +134,8 @@ Brown University
 - TA for [CS 8: First Byte of Computer Science](http://cs.brown.edu/courses/cs008/2017/) [Spring 2014]
 
 ## Service
-- I am on the program committee for the [2023 Student Research Competition][src23] at MICRO. 
+- I am a co-organizer for [PLMW@PLDI][plmw24] 2024. 
+- I am on the program committee for the [2023 Student Research Competition][microsrc23] at MICRO. 
 - I am on the volunteer committee for [SIGPLAN-M][sigplanm], a long-term mentoring program for the programming languages community.
 - I was on the program committee for the [2023 EGRAPHS workshop][egraphs] at PLDI.
 - I was a judge for the [2023 Student Research Competition][pldisrc23] at PLDI. 
@@ -146,9 +147,11 @@ Brown University
 - I helped organize the CS department's [colloquium talks][colloq].
 - I co-organized Cornell's [2019 Admitted PhD Student Visit Day][visit].
 
+[plmw24]: https://www.sigplan.org/Conferences/PLMW/
 [sigplanm]: https://www.sigplan.org/LongTermMentoring/
 [240]: https://cs.wellesley.edu/~cs240
 [pldisrc23]: https://pldi23.sigplan.org/track/pldi-2023-src
+[microsrc23]: https://microarch.org/micro56/submit/src.php
 [oopsla20aec]: https://2020.splashcon.org/committee/splash-2020-Artifacts-artifact-evaluation-committee
 [pldg]:https://pl.cs.cornell.edu/pldg/2020fa/
 [colloq]:https://www.cs.cornell.edu/content/fall-2019-colloquium
